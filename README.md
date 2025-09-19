@@ -28,6 +28,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Antonio-Lima&show_icons=true&locale=en&layout=donut&theme=dracula" alt="Antonio-Lima" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Antonio-Lima&show_icons=true&locale=en&theme=dracula&rank_icon=github" alt="Antonio-Lima" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Antonio-Lima&show_icons=true&locale=en&theme=dracula&rank_icon=github" alt="Antonio-Lima" /></p> -->
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Antonio-Lima&theme=dracula" alt="Antonio-Lima" /></p> --> 
